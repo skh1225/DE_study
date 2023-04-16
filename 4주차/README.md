@@ -7,9 +7,9 @@
 └── IncrementalUpdate.py
 ```
 `Variables`
-api_key : Open Weathermap API key
-gps_coordinates : {"Asia/Seoul":{"lat":37.3387,"lon":121.8853}}
-weather_url : https://api.openweathermap.org/data/2.5/onecall
+- api_key : Open Weathermap API key
+- gps_coordinates : {"Asia/Seoul":{"lat":37.3387,"lon":121.8853}}
+- weather_url : https://api.openweathermap.org/data/2.5/onecall
 
 
 ## `숙제 4`
