@@ -2,9 +2,10 @@
 <img width="1494" alt="image" src="https://user-images.githubusercontent.com/95852887/232301071-52423cc2-7236-4ceb-8c0f-795448bb5b56.png">
 
 ## `숙제 3`
+```
 ├── FullRefresh.py
 └── IncrementalUpdate.py
-
+```
 `Variables`
 api_key : Open Weathermap API key
 gps_coordinates : {"Asia/Seoul":{"lat":37.3387,"lon":121.8853}}
