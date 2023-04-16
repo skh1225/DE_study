@@ -1,7 +1,7 @@
-### 숙제 1
+## `숙제 1`
 <img width="1494" alt="image" src="https://user-images.githubusercontent.com/95852887/232301071-52423cc2-7236-4ceb-8c0f-795448bb5b56.png">
 
-### 숙제 3
+## `숙제 3`
 ├── FullRefresh.py
 └── IncrementalUpdate.py
 
@@ -11,7 +11,7 @@ gps_coordinates : {"Asia/Seoul":{"lat":37.3387,"lon":121.8853}}
 weather_url : https://api.openweathermap.org/data/2.5/onecall
 
 
-### 숙제 4
+## `숙제 4`
 Q1. Airflow의 환경 설정이 들어있는 파일의 이름은?
  - A : airflow.cfg
 
